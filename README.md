@@ -2,6 +2,7 @@
 # Manet [![Heroku](https://heroku-badge.herokuapp.com/?app=manet&svg=1)](https://manet.herokuapp.com) [![Build Status](https://img.shields.io/travis/vbauer/manet.svg)](https://travis-ci.org/vbauer/manet) [![Dependency Status](https://david-dm.org/vbauer/manet.svg)](https://david-dm.org/vbauer/manet) [![NPM](https://img.shields.io/npm/v/manet.svg)](https://www.npmjs.org/package/manet)
 
 > There is only one true thing: instantly paint what you see. When you've got it, you've got it. When you haven't, you begin again. All the rest is humbug.
+> **Caution:** This project is a fork from https://github.com/vbauer/manet in order to have `onlySuccessfulStatusCode` option.  You can wait until this PR merge into origin https://github.com/vbauer/manet/pull/96
 
 <img align="right" style="margin-left: 15px" width="300" height="360" title="Self-Portrait with Palette, 1879" src="misc/manet.jpg">
 
